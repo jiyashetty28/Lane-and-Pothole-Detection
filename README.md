@@ -1,44 +1,40 @@
+# 🛣️ Lane and Pothole Detection System
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-red?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-Edge%20Detection-green?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Overview
 
-Follow these steps:
+This project is a real-time **Lane and Pothole Detection System** built using **YOLOv8** for pothole detection and **Canny Edge Detection** for lane detection. The main goal is to enhance road safety by identifying lane boundaries and alerting for potholes effectively in real-time.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🎯 Features
 
-# Step 3: Install the necessary dependencies.
-npm i
+- ✅ Real-time lane detection using **Canny Edge Detection**
+- ✅ Real-time pothole detection using **YOLOv8 Pretrained Model**
+- ✅ Works with webcam feed or video files
+- ✅ Easy to extend and integrate into advanced autonomous systems
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🧠 Technologies Used
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+| Component            | Technology         |
+|---------------------|--------------------|
+| Language            | Python 3.8+        |
+| Lane Detection      | OpenCV (Canny)     |
+| Pothole Detection   | YOLOv8 (Ultralytics)|
+| Visualization       | OpenCV GUI         |
+| Model Format        | YOLOv8 `.pt` file  |
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🛠️ Installation
 
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/jiyashetty28/Lane-and-Pothole-Detection.git
+   cd Lane-and-Pothole-Detection
