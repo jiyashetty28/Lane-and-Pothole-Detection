@@ -41,7 +41,7 @@ This project is a real-time **Lane and Pothole Detection System** built using **
 
 ---
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 Jiya Shetty
 📧 jiya.shetty@somaiya.edu
 👩‍🎓 TY BTech Electronics and Computer Engineering
