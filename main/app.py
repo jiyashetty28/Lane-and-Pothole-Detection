@@ -405,4 +405,3 @@ if __name__ == '__main__':
     app.run(debug=True, port=8000)
 
 
-# ... (rest of original app.py code remains unchanged) ...
