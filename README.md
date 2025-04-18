@@ -38,3 +38,15 @@ This project is a real-time **Lane and Pothole Detection System** built using **
    ```bash
    git clone https://github.com/jiyashetty28/Lane-and-Pothole-Detection.git
    cd Lane-and-Pothole-Detection
+
+
+
+
+
+
+echo ## 🧑‍💻 Author>>README.md
+echo **Jiya Shetty**>>README.md
+echo 📧 jiya.shetty@somaiya.edu>>README.md
+echo 👩‍🎓 TY BTech Electronics and Computer Engineering>>README.md
+echo 📍 K. J. Somaiya College of Engineering>>README.md
+
