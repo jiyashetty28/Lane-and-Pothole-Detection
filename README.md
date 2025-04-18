@@ -31,6 +31,22 @@ This project is a real-time **Lane and Pothole Detection System** built using **
 | Model Format        | YOLOv8 `.pt` file  |
 
 ---
+## How to Run this Project?
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/jiyashetty28/Lane-and-Pothole-Detection.git
+   cd Lane-and-Pothole-Detection
+2. **Run Command on Terminal to start Python Flask program**
+   ```bash
+   cd main
+   Python app.py
+
+3. **Run Command on Terminal to start Frontend Server**
+   ```bash
+   cd main
+   npm run dev
+
+---
 
 ## 🛠️ Installation
 
